@@ -67,7 +67,6 @@ function getSoundForChar(char) {
             return cc_dialogue_sounds_generic_f;
         case "guests.wervyn":
             return cc_dialogue_sounds_generic_m;
-
         case "forest.family-son-rebel":
             return cc_dialogue_sounds_sans;
     }
