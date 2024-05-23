@@ -1,0 +1,9 @@
+{
+	"name": "cc-dialogue-sounds-extended",
+	"version": "0.1.0",
+	"ccmodHumanName": "CrossCode Dialogue Sounds Extended",
+	"description": "Expands the range of dialogue beeps the game plays for each character.",
+	"homepage": "https://github.com/gen3vra/cc-dialogue-sounds-extended",
+	"main": "main.js",
+	"module": "true"
+}
